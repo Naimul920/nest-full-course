@@ -35,7 +35,7 @@ export class Property extends Model {
     }
   })
   declare price: number;
- 
+ // test
   // @Column({
   //   allowNull: false,
   //   type: DataType.INTEGER,
